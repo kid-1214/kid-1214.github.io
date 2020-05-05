@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://kid-1214.github.io</id>
-    <title>KID-个人空间(呼瑾瑾的小窝)</title>
-    <updated>2020-05-05T13:57:56.097Z</updated>
+    <title>KID-个人空间</title>
+    <updated>2020-05-05T13:58:52.740Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://kid-1214.github.io"/>
     <link rel="self" href="https://kid-1214.github.io/atom.xml"/>
     <subtitle>逐梦千里未敢休</subtitle>
     <logo>https://kid-1214.github.io/images/avatar.png</logo>
     <icon>https://kid-1214.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, KID-个人空间(呼瑾瑾的小窝)</rights>
+    <rights>All rights reserved 2020, KID-个人空间</rights>
     <entry>
         <title type="html"><![CDATA[10K-15K-20K面试题]]></title>
         <id>https://kid-1214.github.io/post/10k-15k-20k-mian-shi-ti/</id>
