@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://kid-1214.github.io</id>
     <title>KID-个人空间(呼瑾瑾的小窝)</title>
-    <updated>2020-05-05T13:51:32.922Z</updated>
+    <updated>2020-05-05T13:54:12.070Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://kid-1214.github.io"/>
     <link rel="self" href="https://kid-1214.github.io/atom.xml"/>
@@ -16,33 +16,31 @@
         <link href="https://kid-1214.github.io/post/10k-15k-20k-mian-shi-ti/">
         </link>
         <updated>2020-05-05T13:42:50.000Z</updated>
-        <content type="html"><![CDATA[<p>#+**10K面试题总结<br>
-1.抽象类和接口的关系和区别，以及你在时间开发过程中是怎么使用到的？<br>
-2.你知道反射机制和动态代理吗？<br>
-3.一个线程连续两次调用start方法会发生什么？简单谈谈线程的几种状态？<br>
-4.springmvc实现原理？<br>
-5.mybatis中#$的区别？</p>
-<ul>
-<li>6.你知道设计模式吗？在实际运用中你会怎样去运用他？比如我这里有个策划打折活动，比如VIP， 普通用户，顾客分别打不一样的折扣，你会用什么设计模式？<br>
-7.你知道索引失效嘛？举例看看？<br>
-8.多态在实际项目的使用?<br>
-9.你知道Spring IOC吗？Spring是怎么创建对象的?<br>
-10.你知道缓存机制不?<br>
-11.你的项目中有用到数据库分库分片吗?数据库分库分片规则？<br>
-12.在实际中你会怎样对sql语句进行优化?<br>
-13.常见的数据结构有哪些？在JAVA中是怎么使用到他们的？<br>
-14.JVM原理你知道嘛？有没自己调优过？<br>
-15.看你的项目里用到了springboot，谈谈你对springboot的理解？<br>
-16.你项目里用到了rocket MQ,那你知道rabbit MQ、rocket MQ和kafka他们之间的区别嘛？能简单说说不?<br>
-17.redis常运用场景有哪些？你的项目中主要使用到redis是用到干嘛的？<br>
-18.有自己部署过redis嘛？redis是如何实现高可用的?<br>
-19.了解mysql的读写分离嘛？是如何实现高可用的？<br>
-20.Exception和Error的关系和区别？<br>
-21.基本数据类型转换为String时你有几种方法，分别是什么？<br>
-22.如何利用JDK不依赖外部工具，实现一个简单的缓存机制？请简述用到的技术和思路。<br>
-23.你项目中是怎样用到事务的？分布式锁呢？<br>
-24.Zookeeper有哪些运用场景？</li>
-</ul>
+        <content type="html"><![CDATA[<p>#10K面试题总结<br>
+-1.抽象类和接口的关系和区别，以及你在时间开发过程中是怎么使用到的？<br>
+-2.你知道反射机制和动态代理吗？<br>
+-3.一个线程连续两次调用start方法会发生什么？简单谈谈线程的几种状态？<br>
+-4.springmvc实现原理？<br>
+-5.mybatis中#$的区别？<br>
+-6.你知道设计模式吗？在实际运用中你会怎样去运用他？比如我这里有个策划打折活动，比如VIP， 普通用户，顾客分别打不一样的折扣，你会用什么设计模式？<br>
+-7.你知道索引失效嘛？举例看看？<br>
+-8.多态在实际项目的使用?<br>
+-9.你知道Spring IOC吗？Spring是怎么创建对象的?<br>
+-10.你知道缓存机制不?<br>
+-11.你的项目中有用到数据库分库分片吗?数据库分库分片规则？<br>
+-12.在实际中你会怎样对sql语句进行优化?<br>
+-13.常见的数据结构有哪些？在JAVA中是怎么使用到他们的？<br>
+-14.JVM原理你知道嘛？有没自己调优过？<br>
+-15.看你的项目里用到了springboot，谈谈你对springboot的理解？<br>
+-16.你项目里用到了rocket MQ,那你知道rabbit MQ、rocket MQ和kafka他们之间的区别嘛？能简单说说不?<br>
+-17.redis常运用场景有哪些？你的项目中主要使用到redis是用到干嘛的？<br>
+-18.有自己部署过redis嘛？redis是如何实现高可用的?<br>
+-19.了解mysql的读写分离嘛？是如何实现高可用的？<br>
+-20.Exception和Error的关系和区别？<br>
+-21.基本数据类型转换为String时你有几种方法，分别是什么？<br>
+-22.如何利用JDK不依赖外部工具，实现一个简单的缓存机制？请简述用到的技术和思路。<br>
+-23.你项目中是怎样用到事务的？分布式锁呢？<br>
+-24.Zookeeper有哪些运用场景？</p>
 ]]></content>
     </entry>
     <entry>
